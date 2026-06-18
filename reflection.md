@@ -16,7 +16,7 @@ Document at least 3 bugs you found. Add rows as needed.
 
 | Input | Expected Behavior | Actual Behavior | Console Output / Error |
 |-------|-------------------|-----------------|------------------------|
-100      "Too High          "Too Low"         "Go Higher"
+100 or 1      "Too High          "Too Low"         "Go Higher"
 New Game restart game       did not restart   "Game over. Start a new game to try again."
 Attempts consistant attempts attemps did not match "None"
 
