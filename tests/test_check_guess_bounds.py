@@ -1,6 +1,6 @@
 from logic_utils import check_guess
 
-
+#Default tests for check_guess function.
 def _outcome_of(result):
     """Return the outcome string whether `check_guess` returns a tuple or a bare string."""
     return result[0] if isinstance(result, tuple) else result
